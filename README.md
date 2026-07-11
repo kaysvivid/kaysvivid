@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/kaysvivid">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1865d2&fontSize=54&height=90&width=538&text=Hello!%20I'm%20Kay" alt="Hello! I&#39;m Kay" />
+    <img src="https://capsule-render.vercel.app/api?font=Helvetica&type=transparent&fontColor=abceff&fontSize=54&height=90&width=538&text=Hello!%20I'm%20Kay" alt="Hello! I&#39;m Kay" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=895&height=44&lines=UX%2FUI%20Design%2C%20Animation%2C%203D-Modelling%2C%20Interactive%20Design" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=450&size=22&pause=2000&color=2f81f7&center=true&vCenter=true&width=895&height=44&lines=UX%2FUI%20Design%2C%20Animation%2C%203D-Modelling%2C%20Interactive%20Design" alt="Typing headlines" />
 </p>
 
 ### About Me
