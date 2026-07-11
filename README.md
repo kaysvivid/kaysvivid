@@ -8,13 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=895&height=44&lines=UX%2FUI%20Design%2C%20Animation%2C%203D-Modelling%2C%20Interactive%20Design" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 ~&nbsp;I'm currently working on **an interactive 3d website**  
 ~&nbsp;I'm currently learning **three.js and touchdesigner**  
 ~&nbsp;Pronouns: **she/her**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -47,12 +47,3 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaysvivid&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/kaysvivid">kaysvivid</a></i></p>
