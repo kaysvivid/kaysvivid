@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **an interactive 3d website**  
-🌱 &nbsp;I'm currently learning **three.js and touchdesigner**  
-😄 &nbsp;Pronouns: **she/her**
+~&nbsp;I'm currently working on **an interactive 3d website**  
+~&nbsp;I'm currently learning **three.js and touchdesigner**  
+~&nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
 
